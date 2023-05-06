@@ -1,0 +1,103 @@
+.main {
+  background-image: url('https://wallpapercave.com/wp/wp5587051.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 526px;
+}
+.main h1{
+  color: white;
+  font-size: 5rem;
+  font-family: 'Bruno Ace SC', bold;
+  text-align: center;
+}
+.main h2{
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Bruno Ace SC', bold;
+}
+.main button{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 200px;
+  height: 50px;
+  font-size: x-large;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 43%;
+  text-align: center;
+  background-color: rgb(6, 171, 116);
+}
+.x{
+  width:120px;
+  height: 120px;
+}
+.div3{
+  width: 25%;
+  height: 20%;
+  margin-left: 48px;
+  margin-right: 48px;
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 45px;
+  background-color: white;
+}
+.headingdiv{
+  font-family: 'Bruno Ace SC', bold;
+  color: rgb(107, 80, 107);
+}
+.paradiv{
+  font-family: 'Courier New', Courier, monospace;
+}
+.about{
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.about img{
+  float: right;
+  border-radius: 15px;
+  height: 35%;
+  width: 35%;
+}
+#about{
+  font-family: 'Bruno Ace SC', bold;
+  color: rgb(107, 80, 107);
+}
+.about p{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.foot h1{
+  font-family: 'Bruno Ace SC', bold;
+}
+.foot{
+  width: 33%;
+  height: 150px;
+  display: inline-block;
+  
+}
+
+.info a{
+display: block;
+font-family: 'Courier New', Courier;
+padding: 4px;
+}
+.copyright{
+  font-family: 'Courier New', Courier;
+}
+.logo img{
+  height: 60px;
+  width:60px;
+  margin:4px;
+
+}
+a{
+  text-decoration: none;
+}
+button:hover{
+  box-shadow: 15px;
+  
+}
